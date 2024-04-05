@@ -23,3 +23,18 @@
         - contains all the completed source code at the end of each lecture
     - lectures-start
         - contains the source code at the beginning of each lecture
+
+#### 3D Rendering Basic
+- WebGL
+    - is a javascript api for rendering 3D graphics on browsers
+    - is a cross-platform web standard so basically all major browsers support it
+    - webgl code is very difficult to read and write
+        - so people build more user-friendly libraries on top
+            - three.js is one of these libraries
+
+* [three.js](https://threejs.org/)
+* [Installation](https://threejs.org/docs/index.html#manual/en/introduction/Installation)
+
+```js
+import * as THREE from 'three';
+```
