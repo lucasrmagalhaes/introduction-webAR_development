@@ -38,3 +38,17 @@
 ```js
 import * as THREE from 'three';
 ```
+
+#### Tracking and AR
+- Types of AR
+    - barcode-like images
+        - are images that has a predefined patterns
+    - natural images
+        - area images that can be anything typical image tracking ar applications include ar product packaging maganizes
+    - face tracking
+        - in face tracking augumented objects are attached to human face (facebook, instagram)
+    - world tracking ar
+        - people sometimes refer to it as markerless ar
+        - the augmented content can be placed anywhere not restricted to particular image, face or physical objects
+    - location based AR?
+        - what people usually mean by that is that ar content is attached to certain geographical location like latitude and longitude
